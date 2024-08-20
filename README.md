@@ -1,2 +1,2 @@
 # my-first-repo
-Learning anout git and github
+Calculate the simple intrest based on the user inputs
